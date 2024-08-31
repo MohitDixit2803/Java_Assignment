@@ -1,0 +1,7 @@
+1.	A programming language is a set of instructions that a computer can understand and execute. It acts as a bridge between human ideas and machine actions.
+2.	We need a programming language to provide instructions to the computer in a way it understands. It allows us to express complex logic and algorithms in a form that can be executed by a machine.
+3.	Features of Java include: Object-oriented, platform-independent, robust, secure, architecture-neutral, multithreaded, and high performance.
+4.	An object is an instance of a class. It's a fundamental unit in object-oriented programming and contains state (data) and behavior (methods).
+5.	A class is a blueprint or template for creating objects. It defines a set of properties (variables) and methods (functions) that the objects of a certain kind share.
+6.	The main() method in Java is the entry point for any Java application. It's the first method that gets invoked when a Java program is run. All Java applications must contain a main() method.
+

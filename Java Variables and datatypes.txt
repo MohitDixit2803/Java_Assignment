@@ -1,0 +1,8 @@
+1.	Statically typed languages are those where the data type of a variable is determined at compile-time. Dynamically typed languages determine the data type at runtime.
+2.	In Java, a variable is a named location used to store data in memory. It must be declared before it can be used, and the declaration includes the variable's data type and name.s
+3.	To assign a value to a variable, you simply use the equals sign (=). For example, int myVariable = 10; assigns the value 10 to the variable myVariable.
+4.	Primitive data types in Java include: byte, short, int, long, float, double, boolean, and char.
+5.	Identifiers in Java are names used to identify variables, methods, classes, etc. They must start with a letter, underscore, or dollar sign, and can contain letters, digits, underscores, and dollar signs.
+6.	Operators in Java include: arithmetic operators (+, -, *, /, %), assignment operators (=, +=, -=, *=, /=, %=), comparison operators (==, !=, <, >, <=, >=), logical operators (&&, ||, !), and others.
+7.	Increment and decrement operators in Java are used to increase or decrease the value of a variable by 1. The increment operator (++) increases the value by 1, and the decrement operator (--) decreases the value by 1. For example, int x = 10; x++; will result in x being 11.
+

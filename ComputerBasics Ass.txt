@@ -1,0 +1,9 @@
+1.	A Computer is a device that can process, store, and retrieve data according to instructions given to it in a program.
+2.	RAM (Random Access Memory) is a type of volatile memory that stores information your computer is actively using so it can be accessed quickly.
+3.	Data in a computer is stored in several places: the RAM, the hard drive, and the CPU cache.
+4.	The input device used to type text and numbers on a document is the keyboard.
+5.	Output devices are hardware components that provide visual, audio, or tangible output such as monitors, printers, and speakers.
+6.	The input device that allows a user to move the cursor or pointer on the screen is the mouse.
+7.	The language directly understood by the computer without a translation program is Machine Language, which consists of binary code (1s and 0s).
+8.	Input devices are hardware components that allow users to interact with and provide data to a computer system, such as a keyboard, mouse, or scanner.
+
